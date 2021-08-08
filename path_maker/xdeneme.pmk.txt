@@ -1,0 +1,12 @@
+make<a/ab/>;
+make<a/zkbc>;
+make<ad>;
+if<a>{
+  ifnot<ad>{
+    go<ad>;
+    make<ccc>;
+  }
+}
+
+
+
